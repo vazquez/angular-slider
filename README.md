@@ -51,7 +51,7 @@ You can then use it in your templates like so:
 
 ### Demo
 
-    You can find a demo of the slider [here](http://gonzalovazquez.ca/projects/angular-slider/).
+You can find a demo of the slider [here](http://gonzalovazquez.ca/projects/angular-slider/).
 
 ### Known issues:
 
